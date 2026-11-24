@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ev tapsirigi16/1.0.0": {
+        "runtime": {
+          "ev tapsirigi16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ev tapsirigi16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\bin\Debug\net9.0-windows\ev tapsirigi16.exe
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\bin\Debug\net9.0-windows\ev tapsirigi16.deps.json
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\bin\Debug\net9.0-windows\ev tapsirigi16.runtimeconfig.json
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\bin\Debug\net9.0-windows\ev tapsirigi16.dll
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\bin\Debug\net9.0-windows\ev tapsirigi16.pdb
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev_tapsirigi16.Form1.resources
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev_tapsirigi16.Properties.Resources.resources
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.AssemblyInfo.cs
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.dll
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\refint\ev tapsirigi16.dll
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.pdb
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ev tapsirigi16.genruntimeconfig.cache
+C:\Users\User\source\repos\ev tapsirigi16\ev tapsirigi16\obj\Debug\net9.0-windows\ref\ev tapsirigi16.dll
